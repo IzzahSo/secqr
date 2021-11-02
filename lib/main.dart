@@ -54,7 +54,7 @@ class _MyAppState extends BaseStateful<MyApp> {
       color: kPrimaryLight,
       home: Scaffold(
         body: _selectedItemPosition == 0
-            ? QrCodeGenerator() //+Add method calendar
+            ? QrCodeGenerator() //+Add method calendar, time
             : _selectedItemPosition == 1
                 ? HomePage()
                 : History(),
