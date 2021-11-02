@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/43489693/139919474-8a26b3d3-71b0-4004-
 
 - Include web support
 
-- Able to paste url from clipboard
+- Able to paste url from clipboard to scan
 
 - Able to insert saved QR images to scan
 
