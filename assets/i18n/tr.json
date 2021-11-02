@@ -1,0 +1,90 @@
+{
+  "QR_CREATOR": "QR Oluşturucu",
+
+
+  "TAB0_TITLE": "QR Okuyucu",
+  "TAB1_TITLE": "QR Oluşturucu",
+  "TAB2_TITLE": "Geçmiş",
+  "TAB3_TITLE": "Hakkımızda",
+
+
+
+  "TUTORIAL_SKIP_BUTTON": "Geç",
+
+  "TUTORIAL_SLIDE1_TITLE": "<b>QrCookie</b>'ye Hoşgeldin!",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "En <b>hızlı</b> ve en <b>fazla barkod türü</b> destekleyen tarayıcı/okuyucu!",
+
+  "TUTORIAL_SLIDE2_TITLE": "QrCookie nasıl kullanılır?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Barkod okuyucuyu aç, barkodu ortala ve okusun. İşte bu kadar basit!",
+
+  "TUTORIAL_SLIDE3_TITLE": "Hazır mısın?",
+  "TUTORIAL_CONTINUE_BUTTON": "Devam et",
+
+
+
+  "HISTORY": "Geçmiş",
+  "HISTORY_CREATED": "Oluşturulan QR",
+  "HISTORY_DATA": "QR Değeri",
+  "HISTORY_DELETE": "Geçmişi Sil",
+  "HISTORY_SHOW_BIGGER": "Büyük moda geç",
+  "HISTORY_SHOW_SMALLER": "Küçük moda geç",
+  "HISTORY_SCANNED": "Taratılan QR",
+  "HISTORY_NO_DATA": "Vay canına! Burası kalbin gibi tertemiz",
+  "HISTORY_CREATE_ADVICE": "Hemen QR Kod oluşturmaya ne dersin?",
+  "HISTORY_SCAN_ADVICE": "Hemen QR Kod taratmaya ne dersin?",
+
+  "HISTORY_ALERT_TITLE": "Geçmişi Sil",
+  "HISTORY_ALERT_MESSAGE": "Geçmişi silmek istediğinizden emin misiniz?",
+  "HISTORY_ALERT_CANCEL": "Vazgeç",
+  "HISTORY_ALERT_DELETE": "SİL",
+
+
+  "QR_CREATE_PLACEHOLDER": "QR kodunuzun içeriğini buraya yazın",
+  "QR_CREATE_BUTTON": "QR Kodu Oluştur",
+
+
+
+  "QR_SCAN": "QR Okuyucu",
+  "QR_RESULT": "QR Sonucu",
+  "QR_FORMAT": "Barkod Formatı",
+  "OPEN_IN_BROWSER": "Tarayıcı ile aç",
+  "SHARE": "Paylaş",
+  "COPY_CLIPBOARD": "Kopyala",
+  "RETURN_QR_SCANNER": "QR Okuyucuyu Aç",
+
+  "LOADING_MESSAGE": "Yükleniyor",
+  "BARCODE_SCAN_CANCELLED": "Barkod okutmaktan vazgeçildi.",
+  "SHARE_BARCODE_MESSAGE": "QRCode Reader/Creator ile Gönderildi.",
+  "SHARE_BARCODE_CANCEL": "Paylaşmaktan vazgeçildi.",
+  "SHARE_BARCODE_OK": "Başarıyla paylaşıldı!",
+  "SHARE_BARCODE_ERR": "Beklenmeyen hata, lütfen tekrar deneyin.",
+  "COPY_CLIPBOARD_NULL": "Kopyalanacak veri mevcut değil, lütfen tekrar deneyin.",
+  "COPY_CLIPBOARD_OK": "Başarıyla kopyalandı!",
+  "COPY_CLIPBOARD_ERR": "Kopyalama başarısız, lütfen tekrar deneyin.",
+
+
+
+  "ABOUT_US": "Hakkımızda",
+  "SUPPORT": "Destek",
+  "SUPPORT_US": "Destek (Reklamlı İçerik)",
+  "SHARE_WITH_FRIEND": "Arkadaşlarınla Paylaş",
+  "SUBMIT_FEEDBACK": "Geri Bildirim Gönder",
+  "RATE_US": "Uygulamayı Oyla",
+  "HOW_TO_USE": "Nasıl Kullanılır ?",
+  "VERSION": "Versiyon",
+  "SOCIAL_MEDIA": "Sosyal Medya",
+
+  "SHARE_WITH_FRIEND_MESSAGE": "QrCookie QR Kod & Barkod Okuyucu ve Oluşturucu uygulamasını indirmedin mi? İndirmesi ve kullanması ÜCRETSİZ! Hemen indir: https://www.jrcookie.com/qrcookie",
+  "FEEDBACK_TYPE_SUGGESTION": "Öneri",
+  "FEEDBACK_TYPE_COMPLAINT": "Şikayet",
+  "FEEDBACK_TYPE_SATISFACTION": "Memnuniyet",
+  "FEEDBACK_TYPE_CANCEL": "Kapat",
+  "APP_NAME": "Qr Cookie",
+  "APPRATE_TITLE": "%@ 'yu beğendin mi?",
+  "APPRATE_MESSAGE": "Eğer cevabın evetse bizi oylaman için biraz vaktini alabilir miyiz?",
+  "APPRATE_BTN_NO": "Hayır",
+  "APPRATE_BTN_LATER": "Belki sonra",
+  "APPRATE_BTN_YES": "Evet!",
+
+  "SEARCH_TITLE": "Arama"
+}

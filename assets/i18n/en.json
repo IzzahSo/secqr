@@ -1,0 +1,92 @@
+{
+  "QR_CREATOR": "QR Creator",
+
+
+
+  "TAB0_TITLE": "QR Scanner",
+  "TAB1_TITLE": "QR Generator",
+  "TAB2_TITLE": "History",
+  "TAB3_TITLE": "About Us",
+
+
+
+  "TUTORIAL_SKIP_BUTTON": "Skip",
+
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to the <b>SecQR</b>",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>fastest</b> and supporting <b>most barcode type</b> reader/scanner!",
+
+  "TUTORIAL_SLIDE2_TITLE": "How to use the SecQR?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Open a barcode reader, center the barcode and it reads. So simple!",
+
+  "TUTORIAL_SLIDE3_TITLE": "Ready to Play?",
+  "TUTORIAL_CONTINUE_BUTTON": "Continue",
+
+
+
+  "HISTORY": "History",
+  "HISTORY_CREATED": "Created QR History",
+  "HISTORY_DATA": "QR Value",
+  "HISTORY_SHOW_BIGGER": "Display larger",
+  "HISTORY_SHOW_SMALLER": "Display smaller",
+  "HISTORY_DELETE": "Delete History",
+  "HISTORY_SCANNED": "Scanned QR History",
+  "HISTORY_NO_DATA": "OMG! Your history is clear as your heart",
+  "HISTORY_CREATE_ADVICE": "Why you don't try to create a QR Code?",
+  "HISTORY_SCAN_ADVICE": "Why you don't try to scan a QR Code?",
+
+  "HISTORY_ALERT_TITLE": "Delete History",
+  "HISTORY_ALERT_MESSAGE": "Are you sure you want to delete history?",
+  "HISTORY_ALERT_CANCEL": "Cancel",
+  "HISTORY_ALERT_DELETE": "DELETE",
+
+
+
+  "QR_CREATE_PLACEHOLDER": "Enter your QR Code data",
+  "QR_CREATE_BUTTON": "Create QR Code",
+
+
+
+
+  "QR_SCAN": "QR Scanner",
+  "QR_RESULT": "QR Result",
+  "QR_FORMAT": "Barcode Format",
+  "OPEN_IN_BROWSER": "Open in Browser",
+  "SHARE": "Share it",
+  "COPY_CLIPBOARD": "Copy Clipboard",
+  "RETURN_QR_SCANNER": "Return QR Scanner",
+
+  "LOADING_MESSAGE": "Loading",
+  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_CANCEL": "Share canceled.",
+  "SHARE_BARCODE_OK": "Successfully shared!",
+  "SHARE_BARCODE_ERR": "Unexpected error, please try again.",
+  "COPY_CLIPBOARD_NULL": "The data to be copied does not exist, please try again.",
+  "COPY_CLIPBOARD_OK": "Successfully copied!",
+  "COPY_CLIPBOARD_ERR": "Copy failed, please try again.",
+
+
+
+  "ABOUT_US": "About Us",
+  "SUPPORT": "Support",
+  "SUPPORT_US": "Support (Ads Content)",
+  "SHARE_WITH_FRIEND": "Share with Friend",
+  "SUBMIT_FEEDBACK": "Submit Feedback",
+  "RATE_US": "Rate Us",
+  "HOW_TO_USE": "How To Use ?",
+  "VERSION": "Version",
+  "SOCIAL_MEDIA": "Social Media",
+
+  "SHARE_WITH_FRIEND_MESSAGE": "Didn't you download yet SecQR QR Code & Barcode Reader and Generator application? Download and use FREE! Easy to get, download now! https://www.jrcookie.com/qrcookie",
+  "FEEDBACK_TYPE_SUGGESTION": "Suggestion",
+  "FEEDBACK_TYPE_COMPLAINT": "Complaint",
+  "FEEDBACK_TYPE_SATISFACTION": "Satisfaction",
+  "FEEDBACK_TYPE_CANCEL": "Cancel",
+  "APP_NAME": "QR Code & Barcode Reader and Generator",
+  "APPRATE_TITLE": "%@ Do you enjoy?",
+  "APPRATE_MESSAGE": "If you enjoy using %@, would you mind taking a moment to rate it?",
+  "APPRATE_BTN_NO": "Nope",
+  "APPRATE_BTN_LATER": "Meh, may be later..",
+  "APPRATE_BTN_YES": "YEP!",
+
+  "SEARCH_TITLE": "Search"
+}

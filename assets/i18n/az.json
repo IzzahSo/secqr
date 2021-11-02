@@ -1,0 +1,92 @@
+{
+  "QR_CREATOR": "QR Creator",
+
+
+
+  "TAB0_TITLE": "QR Scanner",
+  "TAB1_TITLE": "QR Yaradıcısız",
+  "TAB2_TITLE": "Tarix",
+  "TAB3_TITLE": "Bizim Haqqımızda",
+
+
+
+  "TUTORIAL_SKIP_BUTTON": "Atlayın",
+
+  "TUTORIAL_SLIDE1_TITLE": "Xoş gəlmisiniz <b>QrCookie</b>",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Ən tez</b> və <b>ən barkod növü</b> dəstəkləyirik!",
+
+  "TUTORIAL_SLIDE2_TITLE": "Necə istifadə QrCookie?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Bir barkod oxuyucu açın, barkod mərkəzində və oxuyur. Belə ki, sadə!",
+
+  "TUTORIAL_SLIDE3_TITLE": "Play etməyə hazır?",
+  "TUTORIAL_CONTINUE_BUTTON": "Davam edin",
+
+
+
+  "HISTORY": "Tarix",
+  "HISTORY_CREATED": "QR Tarix Yaratdı",
+  "HISTORY_DATA": "QR dəyəri",
+  "HISTORY_SHOW_BIGGER": "Daha böyük göstər",
+  "HISTORY_SHOW_SMALLER": "Daha kiçik göstər",
+  "HISTORY_DELETE": "Tarixi Sil",
+  "HISTORY_SCANNED": "Taranan QR Tarixi",
+  "HISTORY_NO_DATA": "OMG! Sizin tarixiniz ürəyinizdə olduğu kimi aydındır",
+  "HISTORY_CREATE_ADVICE": "Niyə QR Kodunu yaratmağa çalışmırsınız?",
+  "HISTORY_SCAN_ADVICE": "Niyə QR kodunu sınamırsınız?",
+
+  "HISTORY_ALERT_TITLE": "Tarixi Sil",
+  "HISTORY_ALERT_MESSAGE": "Tarixi silmək istədiyinizə əminsiniz?",
+  "HISTORY_ALERT_CANCEL": "Yox",
+  "HISTORY_ALERT_DELETE": "Silmək",
+
+
+
+  "QR_CREATE_PLACEHOLDER": "QR Kod məlumatlarını daxil edin",
+  "QR_CREATE_BUTTON": "QR kodunu yaradın",
+
+
+
+
+  "QR_SCAN": "QR Scanner",
+  "QR_RESULT": "QR Nəticə",
+  "QR_FORMAT": "Barkod formatı",
+  "OPEN_IN_BROWSER": "Brauzerdə açın",
+  "SHARE": "Bunu Paylaş",
+  "COPY_CLIPBOARD": "Kopyala",
+  "RETURN_QR_SCANNER": "QR Scanner qayıt",
+
+  "LOADING_MESSAGE": "Yüklənir",
+  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_CANCEL": "Paylaşmak ləğv edildi.",
+  "SHARE_BARCODE_OK": "Uğurla paylaşılan!",
+  "SHARE_BARCODE_ERR": "Beklenmeyen səhv, təkrar cəhd edin.",
+  "COPY_CLIPBOARD_NULL": "Kopyalanacaq məlumatlar yoxdur, yenidən cəhd edin.",
+  "COPY_CLIPBOARD_OK": "Uğurla kopyalandı!",
+  "COPY_CLIPBOARD_ERR": "Kopyalanamadı, yenidən cəhd edin.",
+
+
+
+  "ABOUT_US": "Bizim Haqqımızda",
+  "SUPPORT": "Dəstək",
+  "SUPPORT_US": "Dəstək (Reklam Məzmunu)",
+  "SHARE_WITH_FRIEND": "Dostla paylaşın",
+  "SUBMIT_FEEDBACK": "Əlaqə göndər",
+  "RATE_US": "Bizi qiymətləndirin",
+  "HOW_TO_USE": "Necə istifadə etməli ?",
+  "VERSION": "Versiya",
+  "SOCIAL_MEDIA": "Sosial Mediya",
+
+  "SHARE_WITH_FRIEND_MESSAGE": "QrCookie QR Kod & Barkod Okuyucu və Oluşturucu tətbiqini indiyə qədər yükləməmisiniz? PULSUZ istifadə edin və istifadə edin! Asan almaq, indi yükləyin! https://www.jrcookie.com/qrcookie",
+  "FEEDBACK_TYPE_SUGGESTION": "Təklif",
+  "FEEDBACK_TYPE_COMPLAINT": "Şikayət",
+  "FEEDBACK_TYPE_SATISFACTION": "Məmnunluq",
+  "FEEDBACK_TYPE_CANCEL": "Ləğv Et",
+  "APP_NAME": "QrCookie QR Kod & Barkod Okuyucu və Oluşturucu",
+  "APPRATE_TITLE": "%@ Sən əylənirsən?",
+  "APPRATE_MESSAGE": "Əgər cevabın evet ise bizi oylama üçün biraz vaktinizi alabilir miyiz?",
+  "APPRATE_BTN_NO": "Yox",
+  "APPRATE_BTN_LATER": "Bəlkə sonra..",
+  "APPRATE_BTN_YES": "BƏLİ!",
+
+  "SEARCH_TITLE": "Axtarış"
+}

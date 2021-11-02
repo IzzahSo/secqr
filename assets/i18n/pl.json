@@ -1,0 +1,92 @@
+{
+  "QR_CREATOR": "QR Twórca",
+
+
+
+  "TAB0_TITLE": "QR Skaner",
+  "TAB1_TITLE": "QR Twórca",
+  "TAB2_TITLE": "Historia",
+  "TAB3_TITLE": "O Nas",
+
+
+
+  "TUTORIAL_SKIP_BUTTON": "Pominąć",
+
+  "TUTORIAL_SLIDE1_TITLE": "Witamy w <b>QrCookie</b>",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Najszybszy</b> i wspierający <b>większość typ kodu kreskowego</b> czytnik/skaner!",
+
+  "TUTORIAL_SLIDE2_TITLE": "Jak korzystać z QrCookie?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Otwórz czytnik kodów kreskowych, wyśrodkuj kod kreskowy i odczytaj. Tak prosty!",
+
+  "TUTORIAL_SLIDE3_TITLE": "Gotowy do Gry?",
+  "TUTORIAL_CONTINUE_BUTTON": "Dalej",
+
+
+
+  "HISTORY": "Historia",
+  "HISTORY_CREATED": "Utwórz historię QR",
+  "HISTORY_DATA": "Wartość QR",
+  "HISTORY_SHOW_BIGGER": "Pokaż większe",
+  "HISTORY_SHOW_SMALLER": "Pokaż mniejszy",
+  "HISTORY_DELETE": "Usuń Historię",
+  "HISTORY_SCANNED": "Zeskanowana Historia QR",
+  "HISTORY_NO_DATA": "OMG! Twoja historia jest jasna jak twoje serce",
+  "HISTORY_CREATE_ADVICE": "Dlaczego nie próbujesz stworzyć kodu QR?",
+  "HISTORY_SCAN_ADVICE": "Dlaczego nie próbujesz skanować kodu QR?",
+
+  "HISTORY_ALERT_TITLE": "Usuń Historię",
+  "HISTORY_ALERT_MESSAGE": "Czy na pewno chcesz usunąć historię?",
+  "HISTORY_ALERT_CANCEL": "Anuluj",
+  "HISTORY_ALERT_DELETE": "KASOWAĆ",
+
+
+
+  "QR_CREATE_PLACEHOLDER": "Wprowadź dane QR Code",
+  "QR_CREATE_BUTTON": "Utwórz kod QR",
+
+
+
+
+  "QR_SCAN": "Skaner QR",
+  "QR_RESULT": "QR Wynik",
+  "QR_FORMAT": "Format kodu kreskowego",
+  "OPEN_IN_BROWSER": "Otwórz w przeglądarce",
+  "SHARE": "Udostępnij to",
+  "COPY_CLIPBOARD": "Kopiuj",
+  "RETURN_QR_SCANNER": "Wróć skaner QR",
+
+  "LOADING_MESSAGE": "Ładuję",
+  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_CANCEL": "Udział odwołany.",
+  "SHARE_BARCODE_OK": "Udało się udostępnić!",
+  "SHARE_BARCODE_ERR": "Nieoczekiwany błąd. Spróbuj ponownie.",
+  "COPY_CLIPBOARD_NULL": "Dane do skopiowania nie istnieją. Spróbuj ponownie.",
+  "COPY_CLIPBOARD_OK": "Pomyślnie skopiowano!",
+  "COPY_CLIPBOARD_ERR": "Kopiowanie nie powiodło się, spróbuj ponownie.",
+
+
+
+  "ABOUT_US": "O Nas",
+  "SUPPORT": "Wsparcie",
+  "SUPPORT_US": "Wsparcie (Treść Reklam)",
+  "SHARE_WITH_FRIEND": "Podziel się z przyjacielem",
+  "SUBMIT_FEEDBACK": "Prześlij opinię",
+  "RATE_US": "Oceń nas",
+  "HOW_TO_USE": "Jak używać ?",
+  "VERSION": "Wersja",
+  "SOCIAL_MEDIA": "Media społecznościowe",
+
+  "SHARE_WITH_FRIEND_MESSAGE": "Czy nie pobrałeś jeszcze aplikacji QrCookie QR Code & Barcode Reader i Creator? Pobierz i korzystaj ZA DARMO! Łatwo dostać, pobierz teraz! https://www.jrcookie.com/qrcookie",
+  "FEEDBACK_TYPE_SUGGESTION": "Sugestia",
+  "FEEDBACK_TYPE_COMPLAINT": "Skarga",
+  "FEEDBACK_TYPE_SATISFACTION": "Zadowolenie",
+  "FEEDBACK_TYPE_CANCEL": "Anuluj",
+  "APP_NAME": "QR Code & Barcode Reader and Creator",
+  "APPRATE_TITLE": "%@ Czy lubisz?",
+  "APPRATE_MESSAGE": "Jeśli lubisz używać %@, czy mógłbyś poświęcić chwilę, aby go ocenić?",
+  "APPRATE_BTN_NO": "Nie",
+  "APPRATE_BTN_LATER": "Może Później..",
+  "APPRATE_BTN_YES": "TAK!",
+
+  "SEARCH_TITLE": "Szukaj"
+}
