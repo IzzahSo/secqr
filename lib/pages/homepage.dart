@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qrcookie_v2/components/config/pallete.dart';
+import '../../components/config/pallete.dart';
 import '../../pages/qr_code_generator/qr_code_generator.dart';
 import '../../pages/qr_code_scanner/qr_code_scanner.dart';
 
@@ -13,7 +13,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
     appBar: AppBar(
-      title: Text('SecQR'),
+      title: Text('secqr'),
       centerTitle: true,
     ),
     body: Container(

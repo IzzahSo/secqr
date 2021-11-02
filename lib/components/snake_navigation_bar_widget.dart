@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_snake_navigationbar/flutter_snake_navigationbar.dart';
-import 'package:qrcookie_v2/components/config/pallete.dart';
+import '../../components/config/pallete.dart';
 import '../core/base/base_stateful.dart';
 
 class SnakeNavigationBarWidget extends StatefulWidget {

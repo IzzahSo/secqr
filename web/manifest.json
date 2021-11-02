@@ -1,6 +1,6 @@
 {
-    "name": "qrcookie_v2",
-    "short_name": "qrcookie_v2",
+    "name": "secqr",
+    "short_name": "secqr",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

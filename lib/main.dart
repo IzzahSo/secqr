@@ -45,7 +45,7 @@ class _MyAppState extends BaseStateful<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'SecQR',
+      title: 'secqr',
       theme: ThemeData(
         primarySwatch: generateMaterialColor(kPrimaryDark),
         scaffoldBackgroundColor: Colors.deepPurple[50],

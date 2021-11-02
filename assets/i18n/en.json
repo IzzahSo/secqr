@@ -12,10 +12,10 @@
 
   "TUTORIAL_SKIP_BUTTON": "Skip",
 
-  "TUTORIAL_SLIDE1_TITLE": "Welcome to the <b>SecQR</b>",
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to the <b>secqr</b>",
   "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>fastest</b> and supporting <b>most barcode type</b> reader/scanner!",
 
-  "TUTORIAL_SLIDE2_TITLE": "How to use the SecQR?",
+  "TUTORIAL_SLIDE2_TITLE": "How to use the secqr?",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Open a barcode reader, center the barcode and it reads. So simple!",
 
   "TUTORIAL_SLIDE3_TITLE": "Ready to Play?",
@@ -56,7 +56,7 @@
   "RETURN_QR_SCANNER": "Return QR Scanner",
 
   "LOADING_MESSAGE": "Loading",
-  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_MESSAGE": "secq",
   "SHARE_BARCODE_CANCEL": "Share canceled.",
   "SHARE_BARCODE_OK": "Successfully shared!",
   "SHARE_BARCODE_ERR": "Unexpected error, please try again.",
@@ -76,7 +76,7 @@
   "VERSION": "Version",
   "SOCIAL_MEDIA": "Social Media",
 
-  "SHARE_WITH_FRIEND_MESSAGE": "Didn't you download yet SecQR QR Code & Barcode Reader and Generator application? Download and use FREE! Easy to get, download now! https://www.jrcookie.com/qrcookie",
+  "SHARE_WITH_FRIEND_MESSAGE": "Didn't you download yet secqr QR Code & Barcode Reader and Generator application? Download and use FREE! Easy to get, download now! https://www.jrcookie.com/secq",
   "FEEDBACK_TYPE_SUGGESTION": "Suggestion",
   "FEEDBACK_TYPE_COMPLAINT": "Complaint",
   "FEEDBACK_TYPE_SATISFACTION": "Satisfaction",

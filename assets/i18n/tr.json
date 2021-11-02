@@ -11,10 +11,10 @@
 
   "TUTORIAL_SKIP_BUTTON": "Geç",
 
-  "TUTORIAL_SLIDE1_TITLE": "<b>QrCookie</b>'ye Hoşgeldin!",
+  "TUTORIAL_SLIDE1_TITLE": "<b>secq</b>'ye Hoşgeldin!",
   "TUTORIAL_SLIDE1_DESCRIPTION": "En <b>hızlı</b> ve en <b>fazla barkod türü</b> destekleyen tarayıcı/okuyucu!",
 
-  "TUTORIAL_SLIDE2_TITLE": "QrCookie nasıl kullanılır?",
+  "TUTORIAL_SLIDE2_TITLE": "secq nasıl kullanılır?",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Barkod okuyucuyu aç, barkodu ortala ve okusun. İşte bu kadar basit!",
 
   "TUTORIAL_SLIDE3_TITLE": "Hazır mısın?",
@@ -74,12 +74,12 @@
   "VERSION": "Versiyon",
   "SOCIAL_MEDIA": "Sosyal Medya",
 
-  "SHARE_WITH_FRIEND_MESSAGE": "QrCookie QR Kod & Barkod Okuyucu ve Oluşturucu uygulamasını indirmedin mi? İndirmesi ve kullanması ÜCRETSİZ! Hemen indir: https://www.jrcookie.com/qrcookie",
+  "SHARE_WITH_FRIEND_MESSAGE": "secq QR Kod & Barkod Okuyucu ve Oluşturucu uygulamasını indirmedin mi? İndirmesi ve kullanması ÜCRETSİZ! Hemen indir: https://www.jrcookie.com/secq",
   "FEEDBACK_TYPE_SUGGESTION": "Öneri",
   "FEEDBACK_TYPE_COMPLAINT": "Şikayet",
   "FEEDBACK_TYPE_SATISFACTION": "Memnuniyet",
   "FEEDBACK_TYPE_CANCEL": "Kapat",
-  "APP_NAME": "Qr Cookie",
+  "APP_NAME": "secqr",
   "APPRATE_TITLE": "%@ 'yu beğendin mi?",
   "APPRATE_MESSAGE": "Eğer cevabın evetse bizi oylaman için biraz vaktini alabilir miyiz?",
   "APPRATE_BTN_NO": "Hayır",

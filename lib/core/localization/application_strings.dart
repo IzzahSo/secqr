@@ -33,7 +33,7 @@ class ApplicationStrings {
   final String generated = 'Generated QR code';
 
   /// Database
-  static const String database = 'SecQR.db';
+  static const String database = 'secqr.db';
   static const String databaseTable = 'Barcodes';
   static const String databaseCreateQuery = 'CREATE TABLE $databaseTable(id INTEGER PRIMARY KEY, data INTEGER, type INTEGER)';
 }

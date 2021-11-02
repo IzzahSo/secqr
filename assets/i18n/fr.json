@@ -12,10 +12,10 @@
 
   "TUTORIAL_SKIP_BUTTON": "Sauter",
 
-  "TUTORIAL_SLIDE1_TITLE": "Bienvenue à la <b>QrCookie</b>",
+  "TUTORIAL_SLIDE1_TITLE": "Bienvenue à la <b>secq</b>",
   "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Le plus rapide</b> et supportant <b>la plupart des types de codes à barres</b> lecteur/scanner!",
 
-  "TUTORIAL_SLIDE2_TITLE": "Comment utiliser le QrCookie?",
+  "TUTORIAL_SLIDE2_TITLE": "Comment utiliser le secq?",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Ouvrez un lecteur de code-barres, centrez le code-barres et il lit. Si simple!",
 
   "TUTORIAL_SLIDE3_TITLE": "Prêt à jouer?",
@@ -56,7 +56,7 @@
   "RETURN_QR_SCANNER": "Retour QR Scanner",
 
   "LOADING_MESSAGE": "Chargement",
-  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_MESSAGE": "secq",
   "SHARE_BARCODE_CANCEL": "Part annulée",
   "SHARE_BARCODE_OK": "Partager avec succès!",
   "SHARE_BARCODE_ERR": "Erreur inattendue, veuillez réessayer.",
@@ -76,7 +76,7 @@
   "VERSION": "Version",
   "SOCIAL_MEDIA": "Des médias sociaux",
 
-  "SHARE_WITH_FRIEND_MESSAGE": "N'avez-vous pas encore téléchargé l'application QrCookie QR Code & Barcode Reader et Creator? Téléchargez et utilisez GRATUIT! Facile à obtenir, téléchargez maintenant! https://www.jrcookie.com/qrcookie",
+  "SHARE_WITH_FRIEND_MESSAGE": "N'avez-vous pas encore téléchargé l'application secq QR Code & Barcode Reader et Creator? Téléchargez et utilisez GRATUIT! Facile à obtenir, téléchargez maintenant! https://www.jrcookie.com/secq",
   "FEEDBACK_TYPE_SUGGESTION": "Proposition",
   "FEEDBACK_TYPE_COMPLAINT": "Plainte",
   "FEEDBACK_TYPE_SATISFACTION": "La satisfaction",

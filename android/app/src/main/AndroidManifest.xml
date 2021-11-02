@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.qrcookie_v2">
+    package="com.example.secqr">
    <application
-        android:label="qrcookie_v2"
+        android:label="secqr"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -12,10 +12,10 @@
 
   "TUTORIAL_SKIP_BUTTON": "Atlayın",
 
-  "TUTORIAL_SLIDE1_TITLE": "Xoş gəlmisiniz <b>QrCookie</b>",
+  "TUTORIAL_SLIDE1_TITLE": "Xoş gəlmisiniz <b>secq</b>",
   "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Ən tez</b> və <b>ən barkod növü</b> dəstəkləyirik!",
 
-  "TUTORIAL_SLIDE2_TITLE": "Necə istifadə QrCookie?",
+  "TUTORIAL_SLIDE2_TITLE": "Necə istifadə secq?",
   "TUTORIAL_SLIDE2_DESCRIPTION": "Bir barkod oxuyucu açın, barkod mərkəzində və oxuyur. Belə ki, sadə!",
 
   "TUTORIAL_SLIDE3_TITLE": "Play etməyə hazır?",
@@ -56,7 +56,7 @@
   "RETURN_QR_SCANNER": "QR Scanner qayıt",
 
   "LOADING_MESSAGE": "Yüklənir",
-  "SHARE_BARCODE_MESSAGE": "QrCookie",
+  "SHARE_BARCODE_MESSAGE": "secqr",
   "SHARE_BARCODE_CANCEL": "Paylaşmak ləğv edildi.",
   "SHARE_BARCODE_OK": "Uğurla paylaşılan!",
   "SHARE_BARCODE_ERR": "Beklenmeyen səhv, təkrar cəhd edin.",
@@ -76,12 +76,12 @@
   "VERSION": "Versiya",
   "SOCIAL_MEDIA": "Sosial Mediya",
 
-  "SHARE_WITH_FRIEND_MESSAGE": "QrCookie QR Kod & Barkod Okuyucu və Oluşturucu tətbiqini indiyə qədər yükləməmisiniz? PULSUZ istifadə edin və istifadə edin! Asan almaq, indi yükləyin! https://www.jrcookie.com/qrcookie",
+  "SHARE_WITH_FRIEND_MESSAGE": "secq QR Kod & Barkod Okuyucu və Oluşturucu tətbiqini indiyə qədər yükləməmisiniz? PULSUZ istifadə edin və istifadə edin! Asan almaq, indi yükləyin! https://www.jrcookie.com/secq",
   "FEEDBACK_TYPE_SUGGESTION": "Təklif",
   "FEEDBACK_TYPE_COMPLAINT": "Şikayət",
   "FEEDBACK_TYPE_SATISFACTION": "Məmnunluq",
   "FEEDBACK_TYPE_CANCEL": "Ləğv Et",
-  "APP_NAME": "QrCookie QR Kod & Barkod Okuyucu və Oluşturucu",
+  "APP_NAME": "secq QR Kod & Barkod Okuyucu və Oluşturucu",
   "APPRATE_TITLE": "%@ Sən əylənirsən?",
   "APPRATE_MESSAGE": "Əgər cevabın evet ise bizi oylama üçün biraz vaktinizi alabilir miyiz?",
   "APPRATE_BTN_NO": "Yox",
